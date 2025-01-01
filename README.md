@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Colleenb6
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning about ChatGPT
+- 🌱 I’m currently learning about LLM
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
